@@ -2,8 +2,9 @@
     "name": "insight",
     "displayName": "Insight",
     "publisher": "InsightTheme",
-    "description": "A Dracula-based theme with slight visual adjustments, to make the theme cleaner",
-    "version": "0.2.0",
+    "description": "A Dracula-based theme with slight visual adjustments, to make the theme cleaner.",
+    "icon": "image/digital-innovation.png",
+    "version": "0.0.5",
     "engines": {
         "vscode": "^1.42.0"
     },
