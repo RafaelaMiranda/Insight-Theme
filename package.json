@@ -3,7 +3,7 @@
     "displayName": "Insight",
     "publisher": "InsightTheme",
     "description": "A Dracula-based theme with slight visual adjustments, to make the theme cleaner",
-    "version": "0.0.2",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.42.0"
     },
