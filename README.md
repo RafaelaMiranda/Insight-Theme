@@ -8,6 +8,4 @@
 
 All instructions can be found at [marketplace](https://marketplace.visualstudio.com/items?itemName=InsightTheme.insight).
 
-## License
 
-[MIT License](./LICENSE)
