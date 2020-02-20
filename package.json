@@ -2,8 +2,8 @@
     "name": "insight",
     "displayName": "Insight",
     "publisher": "InsightTheme",
-    "description": "My cool theme :)",
-    "version": "0.0.1",
+    "description": "A Dracula-based theme with slight visual adjustments, to make the theme cleaner",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.42.0"
     },
